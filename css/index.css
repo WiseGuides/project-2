@@ -1,0 +1,34 @@
+:root {
+  font-family: Alegreya, serif;
+}
+
+main {
+  width: 780px;
+  margin: auto;
+}
+
+main h1 {
+  font-family: Paprika, cursive;
+  font-size: 3em;
+  text-align: center;
+  margin-top: 1em;
+}
+
+section {
+  margin-top: .5em;
+}
+
+section h2 {
+  font-size: 2rem;
+}
+
+.details img {
+  width: 110px;
+}
+
+.details p {
+  font-size: 1.2em;
+  padding-top: 1.5rem;
+  width: 670px;
+  float: left;
+}
